@@ -45,7 +45,7 @@ function bandsInTown(parameter){
   var bandName="";
 if (action === 'concert-this')
 {
-  	bandName= "kansas";
+  	bandName= "jackson";
 	}
 	
 
